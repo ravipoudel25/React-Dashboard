@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 **This dashboard is made using React working in Vite and Bootstrap. **
 
+**Steps:**
+i. Clone the GitHub or download the zip file.
+ii. Run "**npm install**" to install the required dependencies.
+iii. Run "**npm run dev**" to start the server.
