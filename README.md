@@ -11,5 +11,11 @@ Currently, two official plugins are available:
 
 **Steps:**
 i. Clone the GitHub or download the zip file.
+
+
+
 ii. Run "**npm install**" to install the required dependencies.
+
+
+
 iii. Run "**npm run dev**" to start the server.
