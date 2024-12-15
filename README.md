@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 **This dashboard is made using React working in Vite and Bootstrap. **
 
 **Steps:**
-i. Clone the GitHub or download the zip file.
+i. Clone repo or download the zip file.
 
 
 
